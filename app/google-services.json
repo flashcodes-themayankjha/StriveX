@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403126748053",
+    "project_id": "strivex-v1",
+    "storage_bucket": "strivex-v1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403126748053:android:65fd66bbddec9c97a3ec9c",
+        "android_client_info": {
+          "package_name": "com.example.strivex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk34WRp5_vjSZbyCo7fMGNRP4jcJ82WiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
