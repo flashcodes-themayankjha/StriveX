@@ -1,6 +1,6 @@
 # StriveX
 
-<img src="https://raw.githubusercontent.com/flashcodes-themayankjha/StriveX/refs/heads/main/Images%20/_9ca9af29-1269-4504-8247-db2bd2d2e89f.jpeg" width="200" alt="StriveX Logo">
+<img src="https://raw.githubusercontent.com/flashcodes-themayankjha/StriveX/refs/heads/main/Images%20/_9ca9af29-1269-4504-8247-db2bd2d2e89f.jpeg"  alt="StriveX Logo">
 
 
 
