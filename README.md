@@ -1,7 +1,6 @@
 # StriveX
 
-![StriveX Logo](/Images
-/_9ca9af29-1269-4504-8247-db2bd2d2e89f.jpeg)  
+![StriveX Logo](/Images/_9ca9af29-1269-4504-8247-db2bd2d2e89f.jpeg)  
 **AI-Powered Athlete Performance Analysis**
 
 ## 🚀 Overview
