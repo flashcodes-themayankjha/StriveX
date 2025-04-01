@@ -1,0 +1,41 @@
+# Core dependencies
+
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning & Deep Learning
+
+scikit-learn==1.4.2
+
+# tensorflow==2.11.0  # Compatible for cross-platform GPU without CUDA (Metal for Mac, CPU for others)
+tensorflow-macos  # for Mac OS
+tensorflow-metal # for Mac OS
+
+# LSTM & Neural Networks
+keras==2.11.0  # Version compatible with TensorFlow 2.11.0
+
+# Data Preprocessing & Feature Engineering
+statsmodels==0.14.0
+imbalanced-learn==0.12.3
+
+# Backend & API
+flask==3.0.3
+fastapi==0.115.12
+uvicorn==0.34.0
+
+# Database & Storage
+SQLAlchemy==2.0.30
+firebase-admin==6.2.0
+pymongo==4.5.0
+
+# Deployment & Serialization
+joblib==1.4.2
+pickle-mixin==1.0.2
+
+# Miscellaneous
+requests==2.31.0
+tqdm==4.65.0
+PyYAML==6.0.1
