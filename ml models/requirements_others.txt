@@ -10,7 +10,7 @@ seaborn==0.13.2
 
 scikit-learn==1.4.2
 
-tensorflow==2.11.0  # Compatible for cross-platform GPU without CUDA (Metal for Mac, CPU for others)
+tensorflow==2.19.0  # Compatible for cross-platform GPU without CUDA (Metal for Mac, CPU for others)
 #tensorflow-macos  # for Mac OS
 #tensorflow-metal # for Mac OS
 
